@@ -7,7 +7,7 @@ em linguagens com tipagem estática?**
 - A Verificação de tipos ocorre por tempo de compilação. O compilador analisa o código-fonte e procura por erros de tipo,
 - como tentar somar um número com um texto. Se um erro é encontrado, o programa não é executado.
 
-  **b) Quais são os principais benefícios da tipagem estática em termos de performance e
+**b) Quais são os principais benefícios da tipagem estática em termos de performance e
 segurança?**
 - Em performance, ele é executado mais rápido porque o programa não precisa gastar tempo verificando os tipos durante a execução,
 - já que essa verificação foi feita antes.
