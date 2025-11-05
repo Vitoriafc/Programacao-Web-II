@@ -26,10 +26,8 @@ C. Retorna o primeiro elemento do DOM que corresponde ao seletor CSS especificad
 
 🚨❓ Questão 05 - Em JavaScript, ao manipular elementos do DOM, os atributos innerTexte innerHTMLsão frequentemente utilizados. Qual das alternativas abaixo descreve corretamente a diferença entre esses dois atributos?
 
-a — innerTextexibe somente o conteúdo HTML do elemento, enquanto innerHTMLexibe somente o texto visível ao usuário.
-<!-- b — innerTextretorna ou define apenas o texto visível ao usuário, enquanto innerHTMLretorna ou define o conteúdo HTML do elemento, incluindo tags. -->
-c — innerTexté utilizado apenas para leitura, enquanto innerHTMLpode ser utilizado tanto para leitura quanto para modificação do conteúdo do elemento.
-d — Ambos os atributos são sinônimos e podem ser usados ​​de forma intercambiável para manipular texto e HTML.
+ - b — innerTextretorna ou define apenas o texto visível ao usuário, enquanto innerHTMLretorna ou define o conteúdo HTML do elemento, incluindo tags.
+
 
 🚨❓ Questão 06 - O evento de clique foi definido de que forma para os elementos spane btnExcluir(qual atributo foi usado e o que precisamos passar para esse atributo)?
 
