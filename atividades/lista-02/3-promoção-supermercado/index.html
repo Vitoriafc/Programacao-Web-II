@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promoção no Supermercado</title>
+    <script src="index.js" defer></script>
+</head>
+<body>
+    <h2>Supermercado JS</h2>
+
+    <form id="form-supermercado">
+        <div>
+            <label for="produto">Produto:</label>
+            <input type="text" id="produto" required>
+        </div>
+        <div>
+            <label for="preco-unitario">Preço R$:</label>
+            <input type="number" id="preco-unitario" step="0.01" min="0" required>
+        </div>
+        <button type="submit">Ver Promoção</button>
+    </form>
+
+    <div>
+        <p id="out-promo-msg"></p>
+        <h3 id="out-promo-total"></h3>
+    </div>
+    
+</body>
+</html>
