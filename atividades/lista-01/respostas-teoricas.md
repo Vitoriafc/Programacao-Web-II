@@ -3,7 +3,7 @@ responda o que se pede:**
 
 **a) O que caracteriza uma linguagem de tipagem estática? Como a verificação de tipos ocorre
 em linguagens com tipagem estática?**
-- Linguagem de tipagem estática é quando, na hora de declarar um variavel, é preciso declarar o tipo antes dela (ex: int idade = 20;).
+<mark>- Linguagem de tipagem estática é quando, na hora de declarar um variavel, é preciso declarar o tipo antes dela (ex: int idade = 20;).</mark>
 - A Verificação de tipos ocorre por tempo de compilação. O compilador analisa o código-fonte e procura por erros de tipo,
 - como tentar somar um número com um texto. Se um erro é encontrado, o programa não é executado.
 
