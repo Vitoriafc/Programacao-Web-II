@@ -12,6 +12,7 @@ Este projeto consiste no desenvolvimento de uma aplicação web de blog pessoal,
 ```bash
 git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Vitoriafc/Programacao-Web-II/tree/main/N2/atividade-pratica-02.git)
 ```
+
 ### 2. Executar a versão em React 
 ** Entrar na pasta do código React
 cd aplicacao-web-react/blog-react
@@ -20,22 +21,27 @@ cd aplicacao-web-react/blog-react
 ```bash
 npm install
 ```
+
 ** Iniciar o servidor de desenvolvimento
 ```bash
 npm run dev
 ```
-**Executar a versão em Vue.js
+### 3. Executar a versão em Vue.js
  Voltar para a raiz e entrar na pasta do código Vue
+ ```bash
 cd ../../aplicacao-web-vue.js/blog-vue
+```
 
 ** Instalar as dependências
 ```bash
 npm install
 ```
+
 ** Iniciar o servidor de desenvolvimento
 ```bash
 npm run dev
 ```
+
 # Principais Dificuldades Encontradas
 Gerenciamento de Rotas: A maior dificuldade foi compreender e implementar a diferença entre o react-router-dom, que funciona de forma declarativa via componentes no JSX, e o vue-router, que utiliza um arquivo de configuração centralizado (router/index.js).
 
