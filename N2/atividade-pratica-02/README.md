@@ -14,30 +14,32 @@ git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.co
 ```
 
 ### 2. Executar a versão em React 
-** Entrar na pasta do código React
+* Entrar na pasta do código React
+```bash
 cd aplicacao-web-react/blog-react
+````
 
-** Instalar as dependências
+* Instalar as dependências
 ```bash
 npm install
 ```
 
-** Iniciar o servidor de desenvolvimento
+* Iniciar o servidor de desenvolvimento
 ```bash
 npm run dev
 ```
 ### 3. Executar a versão em Vue.js
- Voltar para a raiz e entrar na pasta do código Vue
+* Voltar para a raiz e entrar na pasta do código Vue
  ```bash
 cd ../../aplicacao-web-vue.js/blog-vue
 ```
 
-** Instalar as dependências
+* Instalar as dependências
 ```bash
 npm install
 ```
 
-** Iniciar o servidor de desenvolvimento
+* Iniciar o servidor de desenvolvimento
 ```bash
 npm run dev
 ```
