@@ -1,3 +1,3 @@
-# Programação Web II - ADS
+# Programação WEB II - ADS
 
 Repositório para atividades práticas da disciplina.
