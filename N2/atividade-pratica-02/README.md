@@ -45,19 +45,19 @@ npm run dev
 ```
 
 # Principais Dificuldades Encontradas
-Gerenciamento de Rotas: A maior dificuldade foi compreender e implementar a diferença entre o react-router-dom, que funciona de forma declarativa via componentes no JSX, e o vue-router, que utiliza um arquivo de configuração centralizado (router/index.js).
+* Gerenciamento de Rotas: A maior dificuldade foi compreender e implementar a diferença entre o react-router-dom, que funciona de forma declarativa via componentes no JSX, e o vue-router, que utiliza um arquivo de configuração centralizado (router/index.js).
 
-Configuração de Assets: Ajustar os caminhos das imagens locais (como o arquivo perfil.png) dentro da estrutura do Vite para garantir que o carregamento ocorresse corretamente após a componentização em ambos os frameworks.
+* Configuração de Assets: Ajustar os caminhos das imagens locais (como o arquivo perfil.png) dentro da estrutura do Vite para garantir que o carregamento ocorresse corretamente após a componentização em ambos os frameworks.
 
-Instalação de Módulos: Resolver erros de importação e ausência de bibliotecas de rotas que precisaram ser instaladas manualmente via terminal após a criação inicial das pastas.
+* Instalação de Módulos: Resolver erros de importação e ausência de bibliotecas de rotas que precisaram ser instaladas manualmente via terminal após a criação inicial das pastas.
 
 # Semelhanças e Diferenças entre React e Vue.js
-**Semelhanças
+* Semelhanças
 Virtual DOM: Ambos otimizam a renderização para maior performance.
 Componentes: Estrutura baseada em blocos de interface reutilizáveis.
 Vite: Uso da mesma ferramenta moderna de build e desenvolvimento.
 
-**Diferenças
+* Diferenças
 Sintaxe: React usa JSX (JS/HTML juntos); Vue usa SFC (Template/Script/Style separados).
 CSS: React utiliza estilos inline/objetos; Vue utiliza style scoped para isolamento.
 Navegação: React define rotas no fluxo do App; Vue utiliza mapeamento em arquivo externo.
