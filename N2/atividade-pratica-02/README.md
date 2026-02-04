@@ -10,7 +10,7 @@ Este projeto consiste no desenvolvimento de uma aplicação web de blog pessoal,
 
 ### 1. Clonar o Repositório
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Vitoriafc/Programacao-Web-II.git)
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Vitoriafc/Programacao-Web-II/tree/main/N2/atividade-pratica-02.git)
 ```
 ### 2. Executar a versão em React 
 ** Entrar na pasta do código React
