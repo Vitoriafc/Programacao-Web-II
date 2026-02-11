@@ -1,0 +1,76 @@
+{
+  "anuncios": [
+    {
+      "id": "1",
+      "brand": "Hyundai",
+      "model": "HB20",
+      "km": "65.000",
+      "category": "Hatch",
+      "year": "2018",
+      "price": "55.000,00",
+      "description": "Veículo muito conservado, todas as revisões feitas na concessionária.",
+      "contact": "(88) 99999-0001",
+      "imageUrl": "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?q=80&w=600"
+    },
+    {
+      "id": "2",
+      "brand": "Toyota",
+      "model": "Hilux",
+      "km": "100.000",
+      "category": "Picape",
+      "year": "2019",
+      "price": "155.000,00",
+      "description": "Picape robusta, diesel 4x4, pronta para o trabalho ou lazer.",
+      "contact": "(88) 99999-0002",
+      "imageUrl": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?q=80&w=600"
+    },
+    {
+      "id": "3",
+      "brand": "Volkswagen",
+      "model": "T-Cross",
+      "km": "20.000",
+      "category": "SUV",
+      "year": "2021",
+      "price": "135.000,00",
+      "description": "SUV tecnológico com baixo km e garantia de fábrica.",
+      "contact": "(88) 99999-0003",
+      "imageUrl": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a?q=80&w=600"
+    },
+    {
+      "id": "a822",
+      "brand": "BYD",
+      "model": "Song Plus",
+      "km": "60.000",
+      "category": "SUV",
+      "year": "2025",
+      "price": "250.000,00",
+      "description": "Híbrido plug-in de última geração com autonomia fantástica.",
+      "contact": "(88) 99999-0004",
+      "imageUrl": "https://images.unsplash.com/photo-1706051515259-33b879323697?q=80&w=600"
+    },
+    {
+      "id": "99d6",
+      "model": "dkasd",
+      "brand": "çdakdlç",
+      "category": "ç~dsald",
+      "year": "lçdksaldk",
+      "price": "6454",
+      "km": "dkslad",
+      "description": "ldçskald",
+      "contact": "lsçadka",
+      "imageUrl": "ldçsakd"
+    },
+    {
+      "id": "48b0",
+      "model": "Mustang",
+      "brand": "Ford",
+      "category": "Esportivo",
+      "year": "2024",
+      "price": "550000",
+      "km": "0",
+      "description": "Mustang GT Performance zero km, motor V8, cor azul com faixas brancas.",
+      "contact": "(88) 91234-5678",
+      "imageUrl": "https://images.unsplash.com/photo-1584345604476-8ec5e12e42dd?q=80&w=600"
+    }
+  ]
+}
