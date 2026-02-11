@@ -1,7 +1,6 @@
-### 1. Clonar o Repositório
+### Clonar o Repositório
 ```bash
 git clone -b pratica-react-02 https://github.com/Vitoriafc/Programacao-Web-II.git
-cd Programacao-Web-II
 ```
 
 ### Configurar e Rodar o Backend
